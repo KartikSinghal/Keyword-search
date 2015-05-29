@@ -1,0 +1,34 @@
+http://dbpedia.org/ontology/meltingPoint rdfs:label "melt at" .
+http://dbpedia.org/ontology/meltingPoint rdfs:label "melting point" .
+http://dbpedia.org/ontology/areaMetro rdfs:label "area" .
+http://dbpedia.org/ontology/iataLocationIdentifier rdfs:label "IATA identifier" .
+http://dbpedia.org/ontology/iataLocationIdentifier rdfs:label "IATA location identifier" .
+http://dbpedia.org/ontology/iataLocationIdentifier rdfs:label "IATA code" .
+http://dbpedia.org/ontology/revenue rdfs:label "revenue" .
+http://dbpedia.org/ontology/populationMetro rdfs:label "metropolitan population" .
+http://dbpedia.org/ontology/populationMetro rdfs:label "population" .
+http://dbpedia.org/ontology/commissioningDate rdfs:label "commissioned on" .
+http://dbpedia.org/ontology/absoluteMagnitude rdfs:label "absolute magnitude" .
+http://dbpedia.org/ontology/requirement rdfs:label "requirement of" .
+http://dbpedia.org/ontology/requirement rdfs:label "require" .
+http://dbpedia.org/ontology/agencyStationCode rdfs:label "station code" .
+http://dbpedia.org/ontology/date rdfs:label "take place on" .
+http://dbpedia.org/ontology/mascot rdfs:label "mascot" .
+http://dbpedia.org/ontology/frequency rdfs:label "frequency" .
+http://dbpedia.org/ontology/frequency rdfs:label "broadcast on" .
+http://dbpedia.org/ontology/alias rdfs:label "call" .
+http://dbpedia.org/ontology/alias rdfs:label "alias" .
+http://dbpedia.org/ontology/maximumElevation rdfs:label "rise to" .
+http://dbpedia.org/ontology/maximumElevation rdfs:label "maximum altitude" .
+http://dbpedia.org/ontology/oclc rdfs:label "OCLC number" .
+http://dbpedia.org/ontology/birthYear rdfs:label "born in" .
+http://dbpedia.org/ontology/address rdfs:label "located in" .
+http://dbpedia.org/ontology/address rdfs:label "address" .
+http://dbpedia.org/ontology/callsignMeaning rdfs:label "mean" .
+http://dbpedia.org/ontology/callsignMeaning rdfs:label "stand for" .
+http://dbpedia.org/ontology/shipLaunch rdfs:label "launched on" .
+http://dbpedia.org/ontology/lcc rdfs:label "LC classification" .
+http://dbpedia.org/ontology/iupacName rdfs:label "IUPAC name" .
+http://dbpedia.org/ontology/yearOfConstruction rdfs:label "constructed in" .
+http://dbpedia.org/ontology/populationTotal rdfs:label "population" .
+http://dbpedia.org/ontology/populationTotal rdfs:label "total population" .
